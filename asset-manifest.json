@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/field-log-app/static/css/main.e6c13ad2.css",
+    "main.js": "/field-log-app/static/js/main.293cb00d.js",
+    "static/js/453.0c5afc49.chunk.js": "/field-log-app/static/js/453.0c5afc49.chunk.js",
+    "index.html": "/field-log-app/index.html",
+    "main.e6c13ad2.css.map": "/field-log-app/static/css/main.e6c13ad2.css.map",
+    "main.293cb00d.js.map": "/field-log-app/static/js/main.293cb00d.js.map",
+    "453.0c5afc49.chunk.js.map": "/field-log-app/static/js/453.0c5afc49.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.293cb00d.js"
+  ]
+}
