@@ -1,15 +1,13 @@
 {
   "files": {
-    "main.css": "/field-log-app/static/css/main.e6c13ad2.css",
-    "main.js": "/field-log-app/static/js/main.be465d57.js",
-    "static/js/453.0c5afc49.chunk.js": "/field-log-app/static/js/453.0c5afc49.chunk.js",
+    "main.css": "/field-log-app/static/css/main.7042b3ef.css",
+    "main.js": "/field-log-app/static/js/main.c0f148b2.js",
     "index.html": "/field-log-app/index.html",
-    "main.e6c13ad2.css.map": "/field-log-app/static/css/main.e6c13ad2.css.map",
-    "main.be465d57.js.map": "/field-log-app/static/js/main.be465d57.js.map",
-    "453.0c5afc49.chunk.js.map": "/field-log-app/static/js/453.0c5afc49.chunk.js.map"
+    "main.7042b3ef.css.map": "/field-log-app/static/css/main.7042b3ef.css.map",
+    "main.c0f148b2.js.map": "/field-log-app/static/js/main.c0f148b2.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.be465d57.js"
+    "static/css/main.7042b3ef.css",
+    "static/js/main.c0f148b2.js"
   ]
 }
