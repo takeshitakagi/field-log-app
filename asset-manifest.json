@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/field-log-app/static/css/main.7042b3ef.css",
-    "main.js": "/field-log-app/static/js/main.ea1757c1.js",
+    "main.js": "/field-log-app/static/js/main.6507dec2.js",
     "index.html": "/field-log-app/index.html",
     "main.7042b3ef.css.map": "/field-log-app/static/css/main.7042b3ef.css.map",
-    "main.ea1757c1.js.map": "/field-log-app/static/js/main.ea1757c1.js.map"
+    "main.6507dec2.js.map": "/field-log-app/static/js/main.6507dec2.js.map"
   },
   "entrypoints": [
     "static/css/main.7042b3ef.css",
-    "static/js/main.ea1757c1.js"
+    "static/js/main.6507dec2.js"
   ]
 }
